@@ -5,7 +5,7 @@
  */
 
 // List of movies
-if (window.confirm('If you click "ok" you would be redirected . Cancel will load this website ')) 
+if (window.confirm('hey this is Shubham rozers you can follow me on instagram.')) 
 {
 window.location.href='https://www.instagram.com/shubhamrozers/';
 };
