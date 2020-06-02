@@ -5,7 +5,10 @@
  */
 
 // List of movies
-alert('<a href="https://www.instagram.com/shubhamrozers/">you can follow me on instagram</a>');
+if (window.confirm('If you click "ok" you would be redirected . Cancel will load this website ')) 
+{
+window.location.href='https://www.instagram.com/shubhamrozers/';
+};
 let movies = [
     {
         title: "Fight Club",
